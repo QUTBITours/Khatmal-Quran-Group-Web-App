@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
  */
 function loadBismillahImage() {
   const bismillahImg = document.querySelector('.bismillah-img');
-  bismillahImg.src = 'https://cdn.pixabay.com/photo/2020/06/25/14/51/bismillah-5339925_960_720.png';
+  bismillahImg.src = 'https://i.pinimg.com/736x/ae/5e/5f/ae5e5fb1b13a0339ab4363b49636d76b.jpg';
   bismillahImg.alt = 'Bismillah ar-Rahman ar-Raheem';
 }
 
